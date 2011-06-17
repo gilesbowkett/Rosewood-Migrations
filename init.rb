@@ -1,0 +1,1 @@
+require 'rosewood_migrations'
